@@ -4,7 +4,7 @@ Cartridge-Short-Name: HAPROXYMARIADB
 Architecture: noarch
 Display-Name: HAProxy for MariaDB Galera Cluster
 Description: Acts as the front end for the MariaDB Galera Cluster, providing a single point of entry and also used as a metadata store for prevention of split-brain.
-Source-Url: https://github.com/andrewklau/openshift-haproxy-galera-mariadb/archive/master.zip
+Source-Url: https://github.com/michaelfitz/openshift-haproxy-galera-mariadb.git
 Version: '1.4'
 Cartridge-Version: 1.0.0
 Cartridge-Vendor: andrewklau
